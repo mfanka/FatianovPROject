@@ -1,0 +1,11 @@
+C:\Users\PC10\FatianovPROject\bin\Debug\netcoreapp3.1\FatianovPROject.exe
+C:\Users\PC10\FatianovPROject\bin\Debug\netcoreapp3.1\FatianovPROject.deps.json
+C:\Users\PC10\FatianovPROject\bin\Debug\netcoreapp3.1\FatianovPROject.runtimeconfig.json
+C:\Users\PC10\FatianovPROject\bin\Debug\netcoreapp3.1\FatianovPROject.runtimeconfig.dev.json
+C:\Users\PC10\FatianovPROject\bin\Debug\netcoreapp3.1\FatianovPROject.dll
+C:\Users\PC10\FatianovPROject\bin\Debug\netcoreapp3.1\FatianovPROject.pdb
+C:\Users\PC10\FatianovPROject\obj\Debug\netcoreapp3.1\FatianovPROject.csprojAssemblyReference.cache
+C:\Users\PC10\FatianovPROject\obj\Debug\netcoreapp3.1\FatianovPROject.AssemblyInfoInputs.cache
+C:\Users\PC10\FatianovPROject\obj\Debug\netcoreapp3.1\FatianovPROject.AssemblyInfo.cs
+C:\Users\PC10\FatianovPROject\obj\Debug\netcoreapp3.1\FatianovPROject.dll
+C:\Users\PC10\FatianovPROject\obj\Debug\netcoreapp3.1\FatianovPROject.pdb
